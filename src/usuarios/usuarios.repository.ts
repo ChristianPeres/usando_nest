@@ -9,6 +9,6 @@ export class UsuarioRepository {
     
   }
   async listar(){
-    return this.usuarios
+    return this.usuarios;
   }
 }
